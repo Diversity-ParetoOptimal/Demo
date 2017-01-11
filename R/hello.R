@@ -21,3 +21,12 @@
 hello <- function() {
   print("Hello, world!")
 }
+
+#' Test
+#'
+#' Prints "test"
+#' @return "test"
+#' @export
+test <- function(){
+  print("This is a test!")
+}
