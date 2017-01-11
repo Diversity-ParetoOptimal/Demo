@@ -1,6 +1,7 @@
 #' Test
 #'
 #' Prints "test"
+#' @param
 #' @return "test"
 #' @export
 test22 <- function() {
