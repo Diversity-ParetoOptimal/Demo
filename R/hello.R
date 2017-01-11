@@ -27,6 +27,6 @@ hello <- function() {
 #' Prints "test"
 #' @return "test"
 #' @export
-test <- function(){
+test22 <- function(){
   print("This is a test!")
 }
